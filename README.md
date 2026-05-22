@@ -35,5 +35,5 @@ Ma'lumotlar to'plamida professor Hofmann tomonidan tayyorlangan 20 ta toifali va
 
 1. Repozitoriyani yuklab oling:
 ```bash
-git clone [https://github.com/yourusername/german-credit-risk.git](https://github.com/yourusername/german-credit-risk.git)
+git clone [https://github.com/diloromsherzodovna/credit-risk-prediction-.git](https://github.com/diloromsherzodovna/credit-risk-prediction-.git)
 cd -credit-risk
